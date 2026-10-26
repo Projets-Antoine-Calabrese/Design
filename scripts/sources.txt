@@ -1,0 +1,10 @@
+# dépôt source | dossier dans la source | destination | éléments (* = tout ; a=>b renomme) | mode (vide = automatique, manuel = seulement sur demande /nom)
+madebymustafa/design-taste | skills | .claude/skills | *
+anthropics/skills | skills | .claude/skills | frontend-design theme-factory
+nextlevelbuilder/ui-ux-pro-max-skill | .claude/skills | .claude/skills | ui-ux-pro-max
+wshobson/agents | plugins/ui-design/skills | .claude/skills | responsive-design interaction-design
+wshobson/agents | plugins/business-analytics/skills | .claude/skills | kpi-dashboard-design data-storytelling
+pbakaus/impeccable | .claude/skills | .claude/skills | impeccable | manuel
+Nutlope/hallmark | skills | .claude/skills | hallmark | manuel
+Leonxlnx/taste-skill | skills | .claude/skills | taste-skill=>design-taste-frontend | manuel
+msitarzewski/agency-agents | design | .claude/agents | design-ui-designer design-ux-architect design-ui-finish-gate-reviewer design-whimsy-injector design-persona-walkthrough
