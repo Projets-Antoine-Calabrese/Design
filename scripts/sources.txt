@@ -8,3 +8,5 @@ pbakaus/impeccable | .claude/skills | .claude/skills | impeccable | manuel
 Nutlope/hallmark | skills | .claude/skills | hallmark | manuel
 Leonxlnx/taste-skill | skills | .claude/skills | taste-skill=>design-taste-frontend | manuel
 msitarzewski/agency-agents | design | .claude/agents | design-ui-designer design-ux-architect design-ui-finish-gate-reviewer design-whimsy-injector design-persona-walkthrough
+ibelick/ui-skills | skills | .claude/skills | improve-ui fixing-accessibility
+emilkowalski/skills | skills | .claude/skills | break-ui mobile-native

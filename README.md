@@ -5,7 +5,7 @@ Provenance exacte et commits dans `SOURCES.md`.
 
 | Dossier | Contenu |
 |---|---|
-| `.claude/skills/` | 34 compétences |
+| `.claude/skills/` | 38 compétences |
 | `.claude/agents/` | 5 sous-agents design |
 | `references/composants.md` | Bibliothèques de composants (non copiées) |
 | `licenses/`, `scripts/` | Licences ; `sources.txt` + `sync.sh` pour mettre à jour |
@@ -18,6 +18,7 @@ Provenance exacte et commits dans `SOURCES.md`.
 | Officiel Anthropic | `frontend-design`, `theme-factory` |
 | Données de design | `ui-ux-pro-max` (base consultable : styles, palettes, typos, graphiques, icônes) |
 | Interface et tableaux de bord | `responsive-design`, `interaction-design`, `kpi-dashboard-design`, `data-storytelling` |
+| Contrôle d'une page existante | `improve-ui` (audit et plan de corrections, ibelick), `fixing-accessibility` (corrections d'accessibilité, ibelick), `break-ui` (test avec des données extrêmes, Emil Kowalski), `mobile-native` (page web agréable sur téléphone, Emil Kowalski) |
 
 ## Compétences sur demande (mode manuel)
 Claude ne les déclenche pas seul, pour éviter qu'elles se concurrencent ; les appeler par leur nom.
